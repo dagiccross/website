@@ -10,6 +10,7 @@ Please select the operating system on which you are installing Flutter:
   <a href="/setup-windows" class="get-started-button">Install on Windows</a>
   <a href="/setup-macos" class="get-started-button">Install on macOS</a>
   <a href="/setup-linux" class="get-started-button">Install on Linux</a>
+  <a href="https://github.com/flutter/flutter" class="get-started-button">Install using GitHub</a>
 </div>
 
 {% include note.html content="_If you're in China, please read
